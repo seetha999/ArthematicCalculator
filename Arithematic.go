@@ -26,5 +26,5 @@ func main() {
 	fmt.Println("The substrion is: ", d)
 	fmt.Println("The multiplacation is: ", e)
 	fmt.Println("The Division is: ", f)
-	fmt.println("data print:")
+
 }
